@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa369624.css",
-    "main.js": "/static/js/main.6fac9c0d.js",
-    "static/media/me-new.png": "/static/media/me-new.31ca8e6490e3f26b75e0.png",
-    "static/media/my-image2.jpg": "/static/media/my-image2.57dcb38bc141eaacfb2b.jpg",
-    "static/media/Casper_Shepard-11.pdf": "/static/media/Casper_Shepard-11.bff073fb3c87175a5d9e.pdf",
-    "index.html": "/index.html",
-    "main.fa369624.css.map": "/static/css/main.fa369624.css.map",
-    "main.6fac9c0d.js.map": "/static/js/main.6fac9c0d.js.map"
+    "main.css": "/example-blob-portfolio/static/css/main.fa369624.css",
+    "main.js": "/example-blob-portfolio/static/js/main.0786779b.js",
+    "static/media/me-new.png": "/example-blob-portfolio/static/media/me-new.31ca8e6490e3f26b75e0.png",
+    "static/media/my-image2.jpg": "/example-blob-portfolio/static/media/my-image2.57dcb38bc141eaacfb2b.jpg",
+    "static/media/Casper_Shepard-11.pdf": "/example-blob-portfolio/static/media/Casper_Shepard-11.bff073fb3c87175a5d9e.pdf",
+    "index.html": "/example-blob-portfolio/index.html",
+    "main.fa369624.css.map": "/example-blob-portfolio/static/css/main.fa369624.css.map",
+    "main.0786779b.js.map": "/example-blob-portfolio/static/js/main.0786779b.js.map"
   },
   "entrypoints": [
     "static/css/main.fa369624.css",
-    "static/js/main.6fac9c0d.js"
+    "static/js/main.0786779b.js"
   ]
 }
